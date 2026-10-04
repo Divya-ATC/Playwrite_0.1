@@ -1,0 +1,21 @@
+# Maven target build directories
+target/
+**/target/
+*.class
+
+# IDE and Editor files
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# Test outputs & logs
+test-output/
+logs/
+*.log
+
+# Python artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
