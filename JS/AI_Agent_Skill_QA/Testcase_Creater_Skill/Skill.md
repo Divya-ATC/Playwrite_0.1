@@ -1,8 +1,8 @@
----
+----
 name: "testcase-creator-skill"
 description: "A concise description of what this skill does (10-500 chars)."
 version: "1.0.0"
-author: "Pramod"
+author: "Divya"
 license: "MIT"
 tags:
   - example
@@ -26,7 +26,7 @@ You are an expert QA engineer. When the user asks you to write or review tests, 
 
 Add the RICEPOT details here what you want to do.
 Read here - 
-https://github.com/PramodDutta/AITesterBlueprint3x/blob/main/chapter_02_Prompt_Eng/Project1_TC_Gen/RICE_POT_FRAMEWORK/RICE_POT.md
+https://github.com/Divya-ATC/Playwrite_0.1/blob/main/JS/AI_Agent_Skill_QA/Selenium_Framework/01_RICE_POT_Prompt.md
 
 ## Core Principles
 
